@@ -4,13 +4,15 @@
 
 # Compiler settings - Can be customized.
 CC = g++
-CXXFLAGS = -std=c++17 -Wall
+CXXFLAGS = -std=c++17 -Wall -g
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = level2main
+#APPNAME = level2main
+APPNAME = cppMake01
 EXT = .cpp
-SRCDIR = /home/debian/cppProjects/level_two/src
+#SRCDIR = /home/debian/cppProjects/level_two/src
+SRCDIR = /home/debian/cppProjects/cppMakePro/src
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############

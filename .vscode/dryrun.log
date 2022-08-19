@@ -1,5 +1,5 @@
 make --dry-run --keep-going --print-directory
-make: Entering directory '/home/debian/cppProjects/level_two'
+make: Entering directory '/home/debian/cppProjects/cppMakePro'
 make: Nothing to be done for 'all'.
-make: Leaving directory '/home/debian/cppProjects/level_two'
+make: Leaving directory '/home/debian/cppProjects/cppMakePro'
  

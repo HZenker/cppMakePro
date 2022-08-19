@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#.gitignore
+#project cppCMakeStart
+
+*.log
+*.d
+
+src/CMakefiles/**
+obj/
+build/
+buildWGUI/
+
+/.vscode/*.log
+/src/obj/**

@@ -1,0 +1,7 @@
+cpp Linux project with the possibility to use the debugger under vs-code. 
+cppMakePro is not a good name/description for this project but it describes that this is a make project and not bases on CMake.
+The project is developed further and contains (later) branches.
+
+Not only the make file are important, but also the use of the vs-code json files: launch, settings & tasks. It's also a good idea to use vs-code insiders rather than vs-code. 
+
+
